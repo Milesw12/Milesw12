@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in python, java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me miles#3001 on discord
+- 📫 How to reach me miles#0404 on discord
 
 
 ![Miles's github stats](https://github-readme-stats.vercel.app/api?username=milesw12)
