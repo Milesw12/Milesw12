@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me miles#0404 on discord
 
 
-![Miles's github stats](https://github-readme-stats.vercel.app/api?username=milesw12)
+![Stats](./profile/stats.svg)
 
 
 [![Miles's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milesw12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
